@@ -1,0 +1,18 @@
+SMAP
+customerrecord_jsp.java
+JSP
+*S JSP
+*F
++ 0 customerrecord.jsp
+customerrecord.jsp
+*L
+5,104:47
+109,8:152
+116,2:160
+118,3:162,3
+121:171
+122,2:172,3
+124,3:178
+127:181,3
+128,7:184
+*E
